@@ -1,4 +1,4 @@
-import logoMain from './logo.png'
+import logoMain from '../logo.png'
 import  bannerMain  from './banner.png';
 import banner2 from './banner2.png';
 import about from './about.png';
