@@ -1,4 +1,3 @@
-import logoMain from './logo.png'
 import  bannerMain  from './banner.png';
 import banner2 from './banner2.png';
 import about from './about.png';
@@ -37,7 +36,7 @@ import linkImage3 from './link3.png'
 import hr1 from './hr1.png'
 import about5 from './about5.png'
 import joinBg from './joinBg.png'
-import rdT2 from './rdT2.png'
+import rdT2 from './rdT2'
 
 
 
