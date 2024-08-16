@@ -1,3 +1,4 @@
+import logoMain from './logo.png'
 import  bannerMain  from './banner.png';
 import banner2 from './banner2.png';
 import about from './about.png';
@@ -15,6 +16,7 @@ import loadingImage from "./spinner.png";
 import banner1 from './main2.png'
 import videoBg from './vidbg.mp4'
 import videoBg2 from './vidbg2.mp4'
+import logoImage from './logo.png'
 import leftImage from './bg9.png'
 import bottomRightImage from './pepe.png'
 import chartImage from './chartImage.png'
@@ -36,7 +38,7 @@ import linkImage3 from './link3.png'
 import hr1 from './hr1.png'
 import about5 from './about5.png'
 import joinBg from './joinBg.png'
-import rdT2 from './rdT2'
+import rdT2 from './rdT2.png'
 
 
 
