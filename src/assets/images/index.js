@@ -16,7 +16,6 @@ import loadingImage from "./spinner.png";
 import banner1 from './main2.png'
 import videoBg from './vidbg.mp4'
 import videoBg2 from './vidbg2.mp4'
-import logoImage from './logo.png'
 import leftImage from './bg9.png'
 import bottomRightImage from './pepe.png'
 import chartImage from './chartImage.png'

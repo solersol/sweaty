@@ -87,10 +87,10 @@ const About5 = () => {
 
         {/* Right Side: Title and Paragraph */}
         <div className="lg:w-1/2 flex flex-col justify-center items-center text-center lg:text-left p-4">
-          <h2 className="text-3xl font-semibold text-black mb-4">
+          <h1 className="text-[44px] font-comic text-black mb-4">
             ABOUT
-          </h2>
-          <p className="text-lg text-black leading-relaxed">
+          </h1>
+          <p className="text-[26px] font-kalam text-black leading-relaxed">
             BOOM, BOOM, BOOM….What’s that? It’s $SWEATY walking to get his favourite snack & he’s right around the corner!!! He’s so fat even mosquitos don’t want a piece of him. His appetite is becoming bigger with each second & his new favourite snacks are pump.fun, ray & dex. Watch out, $SWEATY is coming in hot! Help $SWEATY afford a gym membership by lighting up the green candles!
           </p>
         </div>

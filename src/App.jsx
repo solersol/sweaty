@@ -49,7 +49,7 @@ return(
     {/* <section className="w-full h-screen bg-cover bg-center " style={{ backgroundImage: `url(${main3})` }}><ComingSoon /></section> */}
    
    
-    <section className="w-full h-screen bg-cover bg-center   " style={{ backgroundImage: `url(${bgImage})` }}>
+    <section className="w-full h-full bg-cover bg-center   " style={{ backgroundImage: `url(${bgImage})` }}>
       <Hero2 />
     </section>
     <Separator />
